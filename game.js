@@ -1,3 +1,5 @@
+// JavaScript game
+
 // define variables
 var game;
 var player;
