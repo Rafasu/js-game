@@ -1,9 +1,10 @@
-# Simple game JS
+# Simple games JS
 
-A simple game made with phase.js
+Simple games made with JavaScript.
 
-## TO DO
-* 
+## Content
+* Jumpling Game: A game made with phaser.js.
+ 
 
 
  ## Authors
